@@ -11,7 +11,7 @@ spring:
   rabbitmq:
     username: rabbitadmin
     password: 123456
-    addresses: 10.221.253.155:5672
+    addresses: xxxx:5672
     cache:
       connection:
         #       缓存连接模式,默认一个连接,多个channel
